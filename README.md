@@ -140,8 +140,8 @@ Data preprocessing for a 16,733-record used-car dataset (pandas, NumPy), validat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdallah-farahat&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F97316&text_color=C9C9D1&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-farahat&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=A855F7&text_color=C9C9D1" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=abdallah-farahat&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F97316&text_color=C9C9D1&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdallah-farahat&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=A855F7&text_color=C9C9D1" />
 
 </div>
 
