@@ -1,21 +1,18 @@
 <!--
-  GitHub Profile README — github.com/abdallah-farahat
-  ═══════════════════════════════════════════════════
-  BRAND PALETTE (pulled from your logo/banner):
-    • Void black     #0A0A0F   (background / labelColor)
-    • Metallic silver #C9C9D1  (secondary text/accents)
-    • Neon violet    #A855F7   (primary accent — "used it in production" skills)
-    • Neon orange    #F97316   (secondary accent — highlights, "learning" skills use a muted grey instead)
+  GitHub Profile README — Abdallah Ali
+  github.com/abdallah-farahat
 
-  SETUP:
-  1. Create a repo named EXACTLY: abdallah-farahat/abdallah-farahat
-  2. Inside it, make a folder called `assets/` and upload these 3 files into it,
-     renamed exactly like this:
-       assets/banner.png   <- your LinkedIn_Background.png
-       assets/logo.png     <- your my-logo.png
-  3. Put this file in the repo root as README.md
-  4. (Optional bonus) See snake.yml — animated contribution snake in your colors.
-     Instructions for it are at the bottom of this file.
+  BRAND PALETTE
+  ─────────────────────────────────────────────
+  Void Black      #0A0A0F
+  Metallic Silver #C9C9D1
+  Neon Violet     #A855F7
+  Neon Orange     #F97316
+
+  ASSETS
+  ─────────────────────────────────────────────
+  assets/banner.png
+  assets/logo.png
 -->
 
 <div align="center">
@@ -29,146 +26,395 @@
 <br/><br/>
 
 <a href="https://github.com/abdallah-farahat">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%E2%80%94+SQL+%2B+Python+%2B+Azure;I+build+warehouses+that+don't+quietly+break;1st+Place+%E2%80%94+University+Datathon%2C+Data+Science+Track" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Data+Engineer+%E2%80%94+SQL%2C+Python+%26+Cloud;I+build+reliable+data+systems+from+raw+data+to+analytics;1st+Place+%E2%80%94+University+Datathon"
+    alt="Typing SVG"
+  />
 </a>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/abdallah-ali-da)
-[![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:your.email@example.com)
-<!-- TODO: point the Email badge at your real address -->
+[![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:YOUR_EMAIL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=C9C9D1)](https://github.com/abdallah-farahat)
 
 </div>
 
 <br/>
 
+---
+
 ## 🧠 About Me
 
-I'm **Abdallah** — a final-year Business Analytics student who spends a lot more time inside T-SQL windows and Airflow DAGs than inside dashboards. My focus is squarely **data engineering**: designing warehouses that hold up under real, messy data, and building pipelines that don't quietly break when something upstream changes. I care less about running the model and more about making sure the data feeding it is actually trustworthy — deduplicated, correctly typed, and auditable.
+I'm **Abdallah**, a Business Analytics student specializing in **Data Engineering**.
 
-The project I'm proudest of so far is winning **🏆 1st place in the Data Science track** of my university's Datathon — as the *only 3rd-year team* going up against senior competitors, I owned the entire data engineering layer of a prediction system, end to end, in one week. That mix of pressure and ownership is a big part of what convinced me data engineering is a career I actually want, not just a course requirement.
+I enjoy building the systems behind reliable data — from raw ingestion and transformation to data warehouses and analytics-ready datasets.
 
-Right now I'm pushing into **Big Data and orchestration** — PySpark, Hadoop, Spark, and dbt — through an intensive training program, on top of DataCamp's Associate Data Engineer and SQL Associate certifications already under my belt.
+My focus is not just on moving data from A to B. I care about **data quality, correctness, reliability, auditability, and the business problem behind the data**.
+
+I've built end-to-end data warehouses, orchestrated automated pipelines, implemented data quality checks, and worked with real-world messy datasets where things don't always arrive in the shape you expect.
+
+One of the experiences that shaped my direction was winning **🏆 1st place in the Data Science track of my university's Datathon**, where I owned the data engineering layer of our prediction system and delivered it under a one-week deadline.
+
+Today, I'm continuing to deepen my knowledge in **Big Data, distributed processing, orchestration, and modern data engineering practices**.
 
 <br/>
 
-## ⚙️ How I Work
+## 🧠 Engineering Mindset
 
 <div align="center">
 
-![Raw Data](https://img.shields.io/badge/Raw_Data-0A0A0F?style=flat-square&color=6B7280) ➝
-![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-0A0A0F?style=flat-square&color=A855F7) ➝
-![Pipeline](https://img.shields.io/badge/Data_Pipeline-0A0A0F?style=flat-square&color=A855F7) ➝
-![Cloud](https://img.shields.io/badge/Cloud-0A0A0F?style=flat-square&color=F97316) ➝
-![Warehouse](https://img.shields.io/badge/Data_Warehouse-0A0A0F?style=flat-square&color=F97316) ➝
+**I start with the problem, not the tool.**
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+<b>01</b><br/>
+Understand the Problem
+</td>
+<td>→</td>
+<td align="center">
+<b>02</b><br/>
+Design the Data Flow
+</td>
+<td>→</td>
+<td align="center">
+<b>03</b><br/>
+Build Reliable Pipelines
+</td>
+<td>→</td>
+<td align="center">
+<b>04</b><br/>
+Validate the Data
+</td>
+<td>→</td>
+<td align="center">
+<b>05</b><br/>
+Deliver Analytics-Ready Data
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+> **Good data engineering isn't just about moving data.  
+> It's about making data trustworthy enough to build decisions on.**
+
+<br/>
+
+## ⚙️ How I Build
+
+<div align="center">
+
+![Raw Data](https://img.shields.io/badge/Raw_Data-0A0A0F?style=flat-square&color=6B7280)
+&nbsp;→&nbsp;
+![Ingestion](https://img.shields.io/badge/Ingestion-0A0A0F?style=flat-square&color=A855F7)
+&nbsp;→&nbsp;
+![ETL ELT](https://img.shields.io/badge/ETL_%2F_ELT-0A0A0F?style=flat-square&color=A855F7)
+&nbsp;→&nbsp;
+![Data Quality](https://img.shields.io/badge/Data_Quality-0A0A0F?style=flat-square&color=A855F7)
+&nbsp;→&nbsp;
+![Warehouse](https://img.shields.io/badge/Data_Warehouse-0A0A0F?style=flat-square&color=F97316)
+&nbsp;→&nbsp;
 ![Analytics](https://img.shields.io/badge/Analytics-0A0A0F?style=flat-square&color=C9C9D1)
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+---
 
-**Languages & Core**
+## 🛠️ Technical Skills
+
+### Core Data Engineering
 
 ![SQL](https://img.shields.io/badge/SQL-0A0A0F?style=for-the-badge&logo=postgresql&logoColor=A855F7)
 ![Python](https://img.shields.io/badge/Python-0A0A0F?style=for-the-badge&logo=python&logoColor=A855F7)
-![pandas](https://img.shields.io/badge/pandas-0A0A0F?style=for-the-badge&logo=pandas&logoColor=A855F7)
-![NumPy](https://img.shields.io/badge/NumPy-0A0A0F?style=for-the-badge&logo=numpy&logoColor=A855F7)
+![ETL](https://img.shields.io/badge/ETL_%2F_ELT-0A0A0F?style=for-the-badge&logoColor=A855F7)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-0A0A0F?style=for-the-badge&logoColor=A855F7)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-0A0A0F?style=for-the-badge&logoColor=A855F7)
+![Data Quality](https://img.shields.io/badge/Data_Quality-0A0A0F?style=for-the-badge&logoColor=A855F7)
 
-**Databases**
+### Databases & Cloud
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-0A0A0F?style=for-the-badge&logo=microsoftsqlserver&logoColor=F97316)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=for-the-badge&logo=postgresql&logoColor=F97316)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL_Database-0A0A0F?style=for-the-badge&logo=microsoftazure&logoColor=F97316)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0A0A0F?style=for-the-badge&logo=microsoftazure&logoColor=F97316)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0A0A0F?style=for-the-badge&logo=microsoftazure&logoColor=F97316)
 
-**Cloud & Orchestration**
+### Pipelines & Infrastructure
 
-![Azure Blob](https://img.shields.io/badge/Azure_Blob_Storage-0A0A0F?style=for-the-badge&logo=microsoftazure&logoColor=A855F7)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-0A0A0F?style=for-the-badge&logo=apacheairflow&logoColor=A855F7)
-
-**DevOps & Tools**
-
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0A0A0F?style=for-the-badge&logo=apacheairflow&logoColor=A855F7)
 ![Docker](https://img.shields.io/badge/Docker-0A0A0F?style=for-the-badge&logo=docker&logoColor=F97316)
 ![Git](https://img.shields.io/badge/Git-0A0A0F?style=for-the-badge&logo=git&logoColor=F97316)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=C9C9D1)
 
-**BI**
+### Data & Analytics
 
-![Streamlit](https://img.shields.io/badge/Streamlit-0A0A0F?style=for-the-badge&logo=streamlit&logoColor=A855F7)
+![pandas](https://img.shields.io/badge/pandas-0A0A0F?style=for-the-badge&logo=pandas&logoColor=A855F7)
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0F?style=for-the-badge&logo=numpy&logoColor=A855F7)
+![Power BI](https://img.shields.io/badge/Power_BI-0A0A0F?style=for-the-badge&logo=powerbi&logoColor=F97316)
+![Streamlit](https://img.shields.io/badge/Streamlit-0A0A0F?style=for-the-badge&logo=streamlit&logoColor=C9C9D1)
 
-**🌱 Currently Learning** *(muted on purpose — not claiming mastery yet)*
+### 🌱 Currently Exploring
 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0A0A0F?style=for-the-badge&logo=apachespark&logoColor=6B7280)
 ![PySpark](https://img.shields.io/badge/PySpark-0A0A0F?style=for-the-badge&logo=apachespark&logoColor=6B7280)
-![Hadoop](https://img.shields.io/badge/Hadoop-0A0A0F?style=for-the-badge&logo=apachehadoop&logoColor=6B7280)
-![Spark](https://img.shields.io/badge/Spark-0A0A0F?style=for-the-badge&logo=apachespark&logoColor=6B7280)
 ![dbt](https://img.shields.io/badge/dbt-0A0A0F?style=for-the-badge&logo=dbt&logoColor=6B7280)
+![Hadoop](https://img.shields.io/badge/Hadoop-0A0A0F?style=for-the-badge&logo=apachehadoop&logoColor=6B7280)
 
 <br/>
 
-## 🚀 Featured Projects
+---
 
-### 🏗️ [Olist Data Warehouse](https://github.com/abdallah-farahat/Olist_Data_Department)
-A Medallion-architecture data warehouse on Azure SQL Database, built solo for a 7-person team platform. I owned the **Bronze, Silver, and Gold** layers independently, end to end — not just the modeling, but the loading, cleaning, and auditing that makes a warehouse trustworthy.
+# 🚀 Featured Projects
 
-- **Bronze:** bulk-loaded 10 source tables (~375K rows) from Azure Blob Storage via T-SQL `BULK INSERT` / External Data Source, orchestrated by a single stored procedure with batch-level run auditing.
-- **Silver:** window-function deduplication, type casting, and repair of corrupted Portuguese-language text encoding.
-- **Gold:** a star schema (4 dimensions, 2 facts) powering a deployed analytics dashboard.
+## 🏗️ Olist Data Warehouse
 
-> ⚠️ *This repo currently shows as a fork on GitHub — see the note at the bottom of this README before featuring it publicly.*
+<a href="https://github.com/abdallah-farahat/Olist_Data_Department">
+  <img src="https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 📈 [Stock Market Data Pipeline](https://github.com/abdallah-farahat/Stock-Market-Data-Pipeline-Analysis)
-A solo, production-style pipeline: Airflow-orchestrated, Docker-containerized, **31 tasks**, ingesting daily OHLCV data for 10 tickers from the Yahoo Finance API on an automated weekday schedule into PostgreSQL.
+<br/><br/>
 
-- Watermark-based incremental loading with idempotent `INSERT ... ON CONFLICT` upserts — safe to re-run without duplicating data.
-- An 8-check automated data quality auditor (nulls, duplicates, price/volume integrity, outlier flags) with full run-level logging.
+An end-to-end **Medallion Architecture data warehouse** built on Azure SQL Database, designed to transform messy e-commerce source data into reliable, analytics-ready datasets.
 
-### 🏆 [Datathon Winner — Bank Term Deposit Prediction](https://github.com/abdallah-farahat/El_Farghaly_Bros.)
-**1st place, Data Science track** — as the only 3rd-year team against senior competitors, delivered in one week on a ~41K-record banking dataset.
-
-- Owned the data engineering layer: ingested, cleaned, and structured raw banking data from Azure SQL using SQL and pandas, feeding the team's feature engineering and modeling work.
-
-> ⚠️ *Same fork note as above.*
-
-### 🚗 [Car Resale Price Prediction](https://github.com/abdallah-farahat/Car_Sales_Regression_Analysis)
-Data preprocessing for a 16,733-record used-car dataset (pandas, NumPy), validating the data behind a Random Forest regression model delivered via a Streamlit dashboard.
-
-> ⚠️ *Same fork note as above.*
-
-<br/>
-
-## 📊 GitHub Stats
+### Architecture
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=abdallah-farahat&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F97316&text_color=C9C9D1&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdallah-farahat&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=A855F7&text_color=C9C9D1" />
+**ERP + CRM Sources**
+
+⬇
+
+**Azure Blob Storage**
+
+⬇
+
+**Bronze → Silver → Gold**
+
+⬇
+
+**Star Schema**
+
+⬇
+
+**Analytics**
 
 </div>
 
-<!--
-  🐍 OPTIONAL BONUS — animated contribution snake in your exact colors.
-  See snake.yml (delivered alongside this file). Once set up, uncomment this:
+### What I Built
 
-  <img src="https://raw.githubusercontent.com/abdallah-farahat/abdallah-farahat/output/github-contribution-grid-snake.svg" width="100%"/>
--->
+**Bronze — Ingestion**
+
+- Bulk-loaded 10 source tables containing ~375K rows.
+- Used Azure Blob Storage with T-SQL `BULK INSERT` / External Data Source.
+- Designed centralized loading through stored procedures.
+- Implemented batch-level ETL auditing.
+
+**Silver — Transformation**
+
+- Implemented window-function based deduplication.
+- Applied controlled data type conversion.
+- Cleaned and standardized source data.
+- Repaired corrupted Portuguese-language text encoding.
+- Added transformation logic focused on data quality and consistency.
+
+**Gold — Analytics Model**
+
+- Designed a dimensional **Star Schema**.
+- Built fact and dimension tables for analytics.
+- Prepared analytics-ready datasets for downstream reporting.
+- Connected the warehouse to a deployed analytics dashboard.
+
+> **Engineering focus:** ingestion reliability, transformation quality, dimensional modeling, and auditability.
 
 <br/>
 
-## 🎓 Certifications & Training
+---
 
-- DataCamp — Associate Data Engineer
-- DataCamp — SQL Associate
-- Microsoft Student Ambassadors — Data Engineering Track *(selected via competitive interview)*
-- Data Pill Data Engineering Program *(in progress — SQL, Data Warehousing, ETL/ELT, Big Data, dbt)*
+## 📈 Stock Market Data Pipeline
 
-<br/>
+<a href="https://github.com/abdallah-farahat/Stock-Market-Data-Pipeline-Analysis">
+  <img src="https://img.shields.io/badge/View_Project-F97316?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0A0A0F,50:A855F7,100:F97316&section=footer&text=Let's%20build%20something%20solid&fontColor=ffffff&fontSize=20&animation=fadeIn" width="100%"/>
+<br/><br/>
+
+A solo, production-style data pipeline built around automated ingestion, orchestration, incremental loading, and data quality.
+
+### Pipeline
 
 <div align="center">
 
-📍 Badr City, Cairo, Egypt &nbsp;|&nbsp; 🎓 Business Analytics, Egyptian Russian University — Class of 2026
+**Yahoo Finance API**
 
-[LinkedIn](https://linkedin.com/in/abdallah-ali-da) · [GitHub](https://github.com/abdallah-farahat)
+⬇
+
+**Airflow**
+
+⬇
+
+**Docker**
+
+⬇
+
+**PostgreSQL**
+
+⬇
+
+**Data Quality**
+
+</div>
+
+### What I Built
+
+- **31 Airflow tasks** orchestrating the complete workflow.
+- Automated ingestion of daily OHLCV data for **10 tickers**.
+- Weekday-based scheduling.
+- Watermark-based incremental loading.
+- Idempotent `INSERT ... ON CONFLICT` upserts.
+- Safe re-runs without unnecessary duplication.
+- Automated **8-check data quality auditor**.
+- Run-level logging for pipeline observability.
+
+> **Engineering focus:** orchestration, incremental processing, idempotency, and data quality.
+
+<br/>
+
+---
+
+## 🏆 University Datathon — 1st Place
+
+<a href="https://github.com/abdallah-farahat/El_Farghaly_Bros.">
+  <img src="https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**🥇 1st Place — Data Science Track**
+
+A university Datathon project built under a **one-week deadline** on a ~41K-record banking dataset.
+
+Our team competed as the **only 3rd-year team against senior competitors**.
+
+### My Role
+
+I owned the **Data Engineering layer** of the prediction system:
+
+- Ingested raw banking data from Azure SQL.
+- Cleaned and structured the dataset.
+- Prepared reliable data for feature engineering and modeling.
+- Worked with SQL and pandas as part of the end-to-end data workflow.
+
+> **Engineering focus:** ownership, data preparation, reliability, and delivery under pressure.
+
+<br/>
+
+---
+
+## 🚗 Car Resale Price Prediction
+
+<a href="https://github.com/abdallah-farahat/Car_Sales_Regression_Analysis">
+  <img src="https://img.shields.io/badge/View_Project-C9C9D1?style=for-the-badge&logo=github&logoColor=0A0A0F" />
+</a>
+
+<br/><br/>
+
+A used-car price prediction project focused on preparing and validating **16,733 records** before feeding the data into a machine learning workflow.
+
+### What I Worked On
+
+- Data preprocessing with pandas and NumPy.
+- Data cleaning and preparation.
+- Feature preparation for regression.
+- Random Forest regression model.
+- Streamlit-based analytics interface.
+
+> **Engineering focus:** preparing trustworthy data before modeling.
+
+<br/>
+
+---
+
+# 🏆 What These Projects Represent
+
+<div align="center">
+
+| Project | Engineering Capability |
+|---|---|
+| 🏗️ Olist Data Warehouse | Data Warehousing & Data Modeling |
+| 📈 Stock Market Pipeline | Orchestration & Incremental Pipelines |
+| 🏆 Datathon | Data Engineering Ownership |
+| 🚗 Car Resale | Data Preparation & Analytics |
+
+</div>
+
+<br/>
+
+Together, these projects represent the direction I'm building toward:
+
+**Data → Pipelines → Warehouses → Quality → Analytics**
+
+<br/>
+
+---
+
+## 🎓 Certifications & Training
+
+- **DataCamp — Associate Data Engineer**
+- **DataCamp — SQL Associate**
+- **Microsoft Student Ambassadors — Data Engineering Track**
+  - Selected through a competitive interview process
+- **Data Pill Data Engineering Program**
+  - SQL
+  - Data Warehousing
+  - ETL / ELT
+  - Big Data
+  - dbt
+  - *Currently in progress*
+
+<br/>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-stats-extended.vercel.app/api?username=abdallah-farahat&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F97316&text_color=C9C9D1&count_private=true"
+/>
+
+<img
+  height="165"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdallah-farahat&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=A855F7&text_color=C9C9D1"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0A0A0F,50:A855F7,100:F97316&section=footer&text=Let's%20build%20something%20solid&fontColor=ffffff&fontSize=20&animation=fadeIn"
+  width="100%"
+/>
+
+<br/>
+
+📍 **Badr City, Cairo, Egypt**
+
+🎓 **Business Analytics — Egyptian Russian University**
+
+**[LinkedIn](https://linkedin.com/in/abdallah-ali-da) · [GitHub](https://github.com/abdallah-farahat)**
 
 </div>
